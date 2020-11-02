@@ -1,0 +1,34 @@
+#carousel slide{
+    background-color: red;
+}
+
+
+.carousel-inner {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+body {
+    text-align: center;
+    background-color: coral;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: 100;
+    text-align: center;
+}
+
+head {
+    text-align: center;
+    background-color: coral;
+}
+h2{
+   font-size: 40px;
+    font-family: monospace;
+    font-weight: 100;
+    text-align: center; 
+}
